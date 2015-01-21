@@ -1,0 +1,214 @@
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="194dp"
+                android:layout_height="60dp"
+                android:id="@+id/imageView"
+                android:src="@drawable/afterdark_maledition" />
+
+            <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Artist"
+        android:id="@+id/button_artist"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bad Dog!"
+        android:id="@+id/button_baddog"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bugs"
+        android:id="@+id/button_bugs"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Daredevil Dan"
+        android:id="@+id/button_daredevildan"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DOS Shell"
+        android:id="@+id/button_dosshell"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fish Pro"
+        android:id="@+id/button_fishpro"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Flying Toasters Pro"
+        android:id="@+id/button_flyingtoasterspro"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Flying Toilets"
+        android:id="@+id/button_flyingtoilets"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Frost and Fire"
+        android:id="@+id/button_frostandfire"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Guts"
+        android:id="@+id/button_guts"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Logo"
+        android:id="@+id/button_logo"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nirvana"
+        android:id="@+id/button_nirvana"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nonsense"
+                android:id="@+id/button_nonsense"
+                android:onClick="openVideo"
+                android:width="194dp" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Photon"
+                android:id="@+id/button_photon"
+                android:onClick="openVideo"
+                android:width="194dp" />
+
+            <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rat Race"
+        android:id="@+id/button_ratrace"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ray"
+        android:id="@+id/button_ray"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rebound"
+        android:id="@+id/button_rebound"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rose"
+        android:id="@+id/button_rose"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Satori"
+        android:id="@+id/button_satori"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Spheres"
+        android:id="@+id/button_spheres"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Spotlight"
+        android:id="@+id/button_spotlight"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Warp"
+        android:id="@+id/button_warp"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="You Bet Your Head"
+        android:id="@+id/button_youbetyourhead"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Zooommm!"
+        android:id="@+id/button_zooommm"
+        android:onClick="openVideo"
+        android:width="194dp" />
+
+</LinearLayout>
+</ScrollView>
+    </LinearLayout>
